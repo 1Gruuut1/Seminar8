@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\bin\Debug\net6.0\Seminar8.exe
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\bin\Debug\net6.0\Seminar8.deps.json
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\bin\Debug\net6.0\Seminar8.runtimeconfig.json
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\bin\Debug\net6.0\Seminar8.dll
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\bin\Debug\net6.0\Seminar8.pdb
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\Seminar8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\Seminar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\Seminar8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\Seminar8.AssemblyInfo.cs
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\Seminar8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\Seminar8.dll
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\refint\Seminar8.dll
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\Seminar8.pdb
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\Seminar8.genruntimeconfig.cache
+C:\Users\User\Desktop\Git_GB\C_#\Seminar8\obj\Debug\net6.0\ref\Seminar8.dll
